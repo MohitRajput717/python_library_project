@@ -22,3 +22,21 @@
 
 11. rest index of pivot and print. 
 
+
+
+################## Numpy_ Project ###########
+
+1.  Generate synthetic student data
+
+2.  0 for absent, 1 for present
+
+3.  Calculate statistics
+
+4.  Filter data
+
+5.  Print statistics
+
+
+
+
+
