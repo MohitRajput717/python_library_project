@@ -37,6 +37,13 @@
 5.  Print statistics
 
 
+################ matplolib ploting excercise #####
+ use mostly of plot like bar, hist, box, scatter, hexbin, area and pie chart 
+
+
+ ####### seaborn library #######
+
+ 
 
 
 
