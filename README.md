@@ -1,14 +1,5 @@
 # PythonLibraries
-#[This repository is collection of python scripts and notes while I was learning these Python libraries.]
-
-
-
-
-
-
-
-
-
+#This repository is collection of python scripts and notes while I have learnt and worked on these Python libraries
 
 
 Python Library uses such as Pandas, Numpy, datetime, matplotlib, Seaborn, pywin32, Openpyxl, mysql connector and Smtplib.
